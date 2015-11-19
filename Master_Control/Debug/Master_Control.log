@@ -1,0 +1,21 @@
+﻿Build started 11/19/2015 1:15:29 AM.
+     1>Project "C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Master_Control\Master_Control.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Master_Control\\" /I"Generated Files\\" /IDebug\ /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D MASTERCONTROLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /D __WRL_NO_DEFAULT_LIB__ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\Master_Control.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\store\references\platform.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Master_Control\\" /I"Generated Files\\" /IDebug\ /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D MASTERCONTROLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /D __WRL_NO_DEFAULT_LIB__ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\Master_Control.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\store\references\platform.winmd" /analyze- /errorReport:prompt dllmain.cpp Master_Control.cpp
+         dllmain.cpp
+         Master_Control.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.dll" /INCREMENTAL /NOLOGO WindowsApp.lib /MANIFEST:NO /DEBUG:FASTLINK /PDB:"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.winmd" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\Master_Control.obj
+         Debug\pch.obj
+            Creating library C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.lib and object C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.exp
+         Master_Control.vcxproj -> C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.dll
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\10\bin\x64\MakePri.exe New -ProjectRoot "C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Master_Control\\" -ConfigXml Debug\priconfig.xml -OutputFile "C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Debug\Master_Control\Master_Control.pri" -IndexName Master_Control -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\v-yizzho\Documents\Visual Studio 2015\Projects\Master_Control\Master_Control\Master_Control.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.34
